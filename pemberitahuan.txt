@@ -1,0 +1,4 @@
+saya kasih tau, sebelum menggunakan web tersebut kalian harus buat folder namanya ckeditor dan isi folder tersebut ada folder adapters, lang, plugins, samples, skins lalu bulid-config.js,changes.md,ckedito.js
+config.js,content.css,license.md,style.js
+
+#alifwardana&raffiDole
